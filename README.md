@@ -1,3 +1,2 @@
 
-![alt decadences](图片地址)
-/header.png
+![alt decadences](https://github.com/decadences/decadences/blob/main/header.png)
