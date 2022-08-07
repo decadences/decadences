@@ -4,4 +4,3 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=decadences&data=followers,repositories,stars,commits)
 ![decadences](https://capsule-render.vercel.app/api?type=waving&height=200&text=decadences!&fontAlign=80&fontAlignY=40&color=gradient)
-![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)
